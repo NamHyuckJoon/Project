@@ -2,10 +2,8 @@
 # Edit at https://www.gitignore.io/?templates=java,eclipse
 
 ### User ###
+/*
 !Project5/
-
-###  test ###
-
 
 
 ### Eclipse ###
